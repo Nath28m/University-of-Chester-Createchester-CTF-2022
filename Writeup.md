@@ -7,6 +7,8 @@ The group consist of: 1 level 6 (Cyber), myself level 5 (Cyber), 2x level 4 (cyb
 
 I will also upload a pdf file of the report. 
 
+file:///G:/ctf%202023/CTF%202022%20createchester%20group%206.pdf
+
 # Scenario 
 
 The teams has been provided with a .ova ubuntu file and a Ciphertext, we were tasked:
